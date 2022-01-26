@@ -5242,6 +5242,7 @@ python-transitions:
         packages: [transitions]
   ubuntu:
     '*': [python-transitions]
+    focal: [python3-transitions]
     trusty:
       pip:
         packages: [transitions]
